@@ -1,3 +1,5 @@
 # sumofnumber.py
-sdsghsfjbcnkkmln
-sgdjkl
+take two input 
+the create for lop
+sum the no
+print sum
